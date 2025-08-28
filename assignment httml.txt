@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>JS Assignment</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <h1 id="title">Welcome to My JS Project</h1>
+
+  <p id="output">This is where output will appear.</p>
+
+  <button id="btnRunFunctions">Run Functions</button>
+  <button id="btnLoops">Run Loops</button>
+
+  <script src="script.js"></script>
+</body>
+</html>
